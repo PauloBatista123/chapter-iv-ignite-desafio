@@ -1,0 +1,41 @@
+{
+  "continentes": [
+    {
+      "id": 1,
+      "name": "América do Norte",
+      "description": "O maior continente",
+      "image": "https://imgmd.net/images/v1/guia/1698666/america-norte-42-cat.jpg",
+      "subDescription": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe)."
+    },
+    {
+      "id": 2,
+      "name": "Europeu",
+      "description": "O mais antigo",
+      "image": "https://www.10wallpaper.com/wallpaper/1366x768/1408/travel_europe-City_HD_Wallpaper_1366x768.jpg",
+      "subDescription": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe)."
+    },
+    {
+      "id": 3,
+      "name": "Ásia",
+      "description": "O mais populoso",
+      "image": "https://pontofinalmacau.files.wordpress.com/2017/12/1-macau2.jpg?w=723",
+      "subDescription": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe)."
+
+    },
+    {
+      "id": 4,
+      "name": "Africano",
+      "description": "O berço da humanidade",
+      "image": "https://blog.venturas.com.br/wp-content/uploads/2017/07/102353-turismo-na-africa-6-paises-imperdiveis-que-voce-precisa-conhecer.jpg",
+      "subDescription": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe)."
+
+    },
+    {
+      "id": 5,
+      "name": "Oceânico",
+      "description": "O novíssimo mundo",
+      "image": "https://www.dayoneintercambios.com.br/wp-content/uploads/2020/02/sydney-1423x734-1.jpg",
+      "subDescription": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe)."
+    }
+  ]
+}
